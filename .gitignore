@@ -1,0 +1,28 @@
+# Environments and Secrets
+.env
+backend/.env
+*.env
+
+# Python Virtual Environments & Bytecode
+backend/venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Frontend Node Modules & Production Builds (Built during Render deployment)
+frontend/node_modules/
+node_modules/
+frontend/dist/
+
+# Local Database & Logs
+data/
+*.log
+*.sqlite3
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
