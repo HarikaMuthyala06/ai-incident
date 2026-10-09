@@ -114,3 +114,4 @@ OPENAI_EMBEDDING_MODEL=text-embedding-3-small
 Click the **Sign In** button in the top navigation bar to use 1-click credentials:
 - **On-Call SRE Engineer:** `engineer` / `engineer123`
 - **SRE Lead Admin:** `admin` / `admin123`
+
